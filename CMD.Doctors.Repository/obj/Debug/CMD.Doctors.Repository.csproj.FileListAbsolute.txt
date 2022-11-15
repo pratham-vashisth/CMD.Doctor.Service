@@ -1,0 +1,81 @@
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll.config
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.pdb
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.pdb
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll.config
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CopyComplete
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.dll
+C:\Users\User\source\repos\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll.config
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll.config
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.xml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.AssemblyReference.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CoreCompileInputs.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CopyComplete
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.Migrations.init.resources
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.GenerateResource.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Doctors\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.pdb
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll.config
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.pdb
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.pdb
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll.config
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.Migrations.innit.resources
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CopyComplete
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.dll
+C:\Users\User\Desktop\Sb\pulling folder\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Repository.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\CMD.Doctors.Models.dll.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.Migrations.innit.resources
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.GenerateResource.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Doctor\doctor_service\CMD.Doctors.Repository\obj\Debug\CMD.Doctors.Repository.pdb
